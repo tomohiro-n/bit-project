@@ -1,0 +1,19 @@
+{
+  "name": "bit-project",
+  "version": "0.0.1",
+  "private": true,
+  "description": "bit project",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "zeppelin-solidity": "^1.10.0"
+  },
+  "devDependencies": {
+    "truffle": "^4.1.13"
+  },
+  "scripts": {
+  },
+  "author": ""
+}

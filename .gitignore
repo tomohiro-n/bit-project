@@ -1,0 +1,10 @@
+# Modules
+node_modules/
+
+# Build Target
+build/
+
+# IntelliJ Files
+.idea/
+*.iml
+
